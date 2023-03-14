@@ -321,6 +321,9 @@ nav a {
 	ul{
 		height: auto;
 	}
+	header{
+		height: min-content;
+	}
 	
 	
 }
@@ -347,4 +350,7 @@ nav a {
 		width:100%;
 		height: 100%;
 	} 
+	header{
+		height: min-content;
+	}
 } 
